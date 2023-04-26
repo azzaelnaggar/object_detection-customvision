@@ -1,0 +1,13 @@
+  .size {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-left: 300px;
+  }
+
+  .h1{
+
+    background-color: #aaeff7;
+    text-align: center;
+    font-size: 5em;
+  }
